@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editable PPT Rebuilder"
+  short_description: "Rebuild image slides as editable PowerPoint"
+  default_prompt: "Rebuild the supplied image-based presentation as an editable PPTX, preserving its visual layout and making text, diagrams, tables, and readable charts native PowerPoint objects."
